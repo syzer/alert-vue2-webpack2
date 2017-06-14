@@ -1,5 +1,7 @@
 # vue-alert
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/alert-vue2-webpack2.svg)](https://greenkeeper.io/)
+
 To start:
 
 ```bash
